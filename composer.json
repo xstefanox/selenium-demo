@@ -1,0 +1,16 @@
+{
+    "name": "xstefanox/selenium-demo",
+    "description": "Functional testing demonstration with Selenium",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefano Varesi",
+            "email": "stefano.varesi@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit-selenium": "^2.0",
+        "joomla-projects/selenium-server-standalone": "^2.53"
+    }
+}
