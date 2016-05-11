@@ -7,7 +7,7 @@ class FormTest extends \PHPUnit_Extensions_Selenium2TestCase
     protected function setUp()
     {
         $this->setBrowser('firefox');
-        $this->setBrowserUrl('http://localhost:8080');
+        $this->setBrowserUrl('http://localhost:9090');
         $this->prepareSession();
     }
 

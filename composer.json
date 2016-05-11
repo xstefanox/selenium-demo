@@ -8,7 +8,9 @@
             "email": "stefano.varesi@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "twbs/bootstrap": "^3.3"
+    },
     "require-dev": {
         "phpunit/phpunit-selenium": "^2.0",
         "joomla-projects/selenium-server-standalone": "^2.53"
