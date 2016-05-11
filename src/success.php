@@ -8,17 +8,17 @@
   <body>
     <h1 class="text-center">Selenium demo</h1>
     <div class="container">
-      <h2>Inserted values</h2>
+      <h3 class="text-center">Inserted values</h3>
       <form class="form-horizontal">
         <div class="form-group">
-          <label class="col-sm-2 control-label">First Name</label>
-          <div class="col-sm-10">
+          <label class="col-sm-2 col-sm-offset-3 control-label">First Name</label>
+          <div class="col-sm-4">
             <p id="first-name" class="form-control-static"><?php echo $_SESSION['first-name'] ?></p>
           </div>
         </div>
         <div class="form-group">
-          <label class="col-sm-2 control-label">Last Name</label>
-          <div class="col-sm-10">
+          <label class="col-sm-2 col-sm-offset-3 control-label">Last Name</label>
+          <div class="col-sm-4">
             <p id="last-name" class="form-control-static"><?php echo $_SESSION['last-name'] ?></p>
           </div>
         </div>
