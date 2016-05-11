@@ -14,6 +14,9 @@ composer install
 
 ## Run the example tests
 ```bash
+# start selenium
+vendor/bin/selenium-server-standalone
+
 # execute phpunit in the project directory
 vendor/bin/phpunit test
 ```
