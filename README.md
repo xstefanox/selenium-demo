@@ -1,2 +1,2 @@
 # selenium-demo
-A demonstration of Selenium in-browser testing
+Functional testing demonstration with Selenium
